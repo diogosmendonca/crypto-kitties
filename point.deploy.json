@@ -1,0 +1,17 @@
+{
+    "version": 0.1,
+    "target": "kitties.point",
+    "keyvalue": {},
+    "contracts": [
+      "KittyCore", "MarketPlace"
+    ],
+    "rootDir": "client/build",
+    "useIDE": {
+      "name": "truffle",
+      "projectDir": "./eth",
+      "addresses": {
+        "KittyCore": "0x1D96d04A5C52De34E6Df8A7B7F06FA0ea16e3D9F",
+        "MarketPlace": "0x83897f18E85dF34972A3CB3041b6Db82ce13E56e"
+      }
+    }
+  }
